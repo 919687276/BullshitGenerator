@@ -15,7 +15,8 @@
   "dependencies": {
     "element-ui": "^2.14.1",
     "nuxt": "^2.0.0",
-    "postcss-px2rem": "^0.3.0"
+    "postcss-px2rem": "^0.3.0",
+    "yarn": "^1.22.10"
   },
   "devDependencies": {
     "babel-eslint": "^10.0.1",
